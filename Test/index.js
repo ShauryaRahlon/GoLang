@@ -1,7 +1,4 @@
-/*
-Part of exercise file for go lang course at
-https://web.learncodeonline.in
-*/
+
 
 const express = require('express')
 const app = express()
